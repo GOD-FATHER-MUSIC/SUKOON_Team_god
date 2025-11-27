@@ -14,9 +14,9 @@
 
 > **𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐓𝐢𝐦𝐞:** `1-3 seconds` | **𝐒𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲:** `99.9% Uptime`
 
-[![Support Channel](https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=telegram)](https://t.me/ShrutiBots)
-[![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/ShrutiBotSupport)
-[![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/WTF_WhyMeeh)
+[![Support Channel](https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=telegram)](https://t.me/GOD_KI_DUNIYA)
+[![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/SUKOON_ALL_DP)
+[![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/lll_GOD_FATTER_PAPA_ll)
 
 [![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/NoxxOP/ShrutiMusic/fork)
 [![Stars](https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/NoxxOP/ShrutiMusic/stargazers)
@@ -216,7 +216,7 @@ bash start
 
 <div align="center">
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/GOD-FATHER-MUSIC/SUKOON_Team_god)
 
 </div>
 
